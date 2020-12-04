@@ -6,7 +6,7 @@ PyYAML==5.3.1
 Pygments==2.7.2
 Sphinx==1.8.5
 alabaster==0.7.12
-appdirs=1.4.4
+appdirs==1.4.4
 argh==0.26.2
 arrow==0.17.0
 attrs==20.3.0
