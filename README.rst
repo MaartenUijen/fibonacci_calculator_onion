@@ -10,7 +10,7 @@ Python Fibonacci Calculator Onion
         :target: https://travis-ci.com/MaartenUijen/fibonacci_calculator_onion
 
 .. image:: https://readthedocs.org/projects/fibonacci-calculator-onion/badge/?version=latest
-        :target: https://fibonacci-calculator-onion.readthedocs.io/en/latest/?badge=latest
+        :target: https://fibonacci-calculator-onion.readthedocs.io/en/main/?badge=latest
         :alt: Documentation Status
 
 
