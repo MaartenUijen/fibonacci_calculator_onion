@@ -20,7 +20,7 @@ This calculator gives the n-th fibonacci number, sequence of fibonacci numbers o
 
 
 * Free software: MIT license
-* Documentation: https://fibonacci-calculator-onion.readthedocs.io.
+* Documentation: https://fibonacci-calculator-onion.readthedocs.io/en/main/?badge=latest
 
 
 Features
